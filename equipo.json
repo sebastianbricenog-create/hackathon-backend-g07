@@ -1,8 +1,8 @@
 {
   "equipo": "G50",
   "integrantes": [
-    { "nombre": "Sebastián Vir Briceño Gora", "codigo": "TU_CODIGO_UTEC" },
-    { "nombre": "Matias Porzoliz Meza", "codigo": "CODIGO_MATIAS" },
-    { "nombre": "HarleyTheCrack", "codigo": "CODIGO_HARLEY" }
+    { "nombre": "Sebastián Vir Briceño Gora", "codigo": "202310002" },
+    { "nombre": "Matias Porzoliz Meza", "codigo": "202310056" },
+    { "nombre": "HarleyTheCrack", "codigo": "202320183" }
   ]
 }
